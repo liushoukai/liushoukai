@@ -1,6 +1,7 @@
 
-[![liushoukai's github stats](https://github-readme-stats.vercel.app/api?username=liushoukai&theme=merko)](https://github.com/liushoukai/github-readme-stats)  
+[![liushoukai's github stats](https://github-readme-stats.vercel.app/api?username=liushoukai&theme=merko)](https://github.com/liushoukai/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liushoukai&layout=compact&theme=merko)](https://github.com/liushoukai/github-readme-stats)
+---
 ![LeetCode Stats](https://leetcode.card.workers.dev/liushoukai?theme=auto&font=baloo&extension=null)
 
 <!--

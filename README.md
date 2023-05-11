@@ -1,4 +1,7 @@
-### Hi there 👋
+Hi, welcome to my github home page
+---
+[![liushoukai's github stats](https://github-readme-stats.vercel.app/api?username=liushoukai&theme=gruvbox)](https://github.com/liushoukai/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liushoukai&layout=compact&theme=gruvbox)](https://github.com/liushoukai/github-readme-stats)
 
 <!--
 **liushoukai/liushoukai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
